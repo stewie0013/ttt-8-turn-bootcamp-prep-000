@@ -6,4 +6,8 @@ def valid_move?(board, indx)
   
 end
 
-def
+def position_taken?(board, indx)
+  
+end
+
+def move()
