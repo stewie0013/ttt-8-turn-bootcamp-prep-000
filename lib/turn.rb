@@ -10,4 +10,6 @@ def position_taken?(board, indx)
   
 end
 
-def move()
+def move(board, indx, value)
+  
+end
